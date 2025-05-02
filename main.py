@@ -1,3 +1,8 @@
+########
+# Extraction posts and comments Reddit - en local
+# wwww.codeandcortex.fr
+########
+
 # pip install streamlit praw
 # python -m streamlit run main.py
 
