@@ -3,7 +3,7 @@
 # wwww.codeandcortex.fr
 ########
 
-# pip install streamlit praw
+# pip install streamlit praw langdetect
 # python -m streamlit run main.py
 
 import streamlit as st
